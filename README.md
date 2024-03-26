@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm RAMESWAR BISOYI</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/RB137/RB137/assets/161145698/76ff18b7-5765-4ab5-96b5-d87c02551121)
+">
+
+
 - 🔭 I’m currently studying computer science and information technology **sorting visualiser**
 
 - 📫 How to reach me **rameswarbisoyi@gmail.com**
