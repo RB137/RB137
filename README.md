@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/RB137/RB137/assets/161145698/93c7fbe8-9dc3-4def-9ca1-247e89a49c73">
 
 
-- 🔭 I’m currently studying computer science and information technology **sorting visualiser**
+- 🔭 I’m currently Pursuing B. Tech(CSIT) at ITER SOA University.
 
 - 📫 How to reach me **rameswarbisoyi@gmail.com**
 
