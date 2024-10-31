@@ -32,7 +32,7 @@
 ### 📈 GitHub Stats:
 
 ![RAMESWAR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RB137&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RB137&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RB137&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
 
 ---
 
