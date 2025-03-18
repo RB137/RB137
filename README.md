@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rameswar Bisoyi</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Android developer and ML geek crafting AI-powered solutions🌐</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RB137y&color=blue&style=flat-square" alt="Profile views" width="120"/>
