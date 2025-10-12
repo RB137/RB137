@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rameswar Bisoyi</h1>
 <h3 align="center">Android developer and ML geek crafting AI-powered solutions🌐</h3>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RB137y&color=blue&style=flat-square" alt="Profile views" width="120"/>
   
-</p>
+</p> -->
 
 ---
 
@@ -32,7 +32,6 @@
 ### 📈 GitHub Stats:
 
 ![RAMESWAR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RB137&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RB137&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
 
 ---
 
@@ -58,8 +57,4 @@
 ---
 
 
-### 📈 Contribution Graph:
 
-![RAMESWAR's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RB137&theme=react-dark&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RB137&theme=algolia)](https://git.io/streak-stats)
----
