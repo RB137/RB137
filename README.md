@@ -35,7 +35,7 @@
 
 ---
 
-## Hoplin Badges🌐🦖
+## Holopin Badges🌐🦖
   ![image](https://github.com/user-attachments/assets/4389451a-519b-49b8-bc41-145c3f040adc)
   
 🔗[holopin.io/@rb137](https://www.holopin.io/@rb137#)
